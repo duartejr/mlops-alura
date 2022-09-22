@@ -1,0 +1,15 @@
+click
+Flask
+Flask-BasicAuth
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+nltk
+numpy
+scikit-learn
+scipy
+six
+textblob
+Werkzeug
+translators
